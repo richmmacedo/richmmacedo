@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Campinorte, Goiás, Brazil<br><br>- 🔭 🔭 I’m working as a Teaching Assistant for CIS 1050 @ Penn<br>- 📚 I'm currently learning Cybersecurity and Cryptography<br>- 🧠 I am interested in Backend Development</p>
+<p align="left">I'm from Campinorte, Goiás, Brazil<br><br>- 🔭 I’m working as a Teaching Assistant for CIS 1050 @ Penn<br>- 📚 I'm currently learning Cybersecurity and Cryptography<br>- 🧠 I am interested in Backend Development</p>
 
 ###
 
